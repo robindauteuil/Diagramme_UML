@@ -1,1 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T16:12:20.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.6" etag="gFoFFvkDifLzth6T4ihF" type="github"><diagram id="R2Bjpt7cqKCWNZgAi9kY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-19T15:44:09.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="h_EIuxmgLIRCpfS4q8Ho" version="14.4.6" type="github">
+  <diagram id="R2Bjpt7cqKCWNZgAi9kY" name="Page-1">
+    <mxGraphModel dx="1422" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-1" value="utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-2" value="système" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="680" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-4" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="470" width="680" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-7" value="" style="endArrow=classic;html=1;exitX=0.091;exitY=1.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IHLnQkf-su2GQdxn4kNH-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="210" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-8" value="&lt;span lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW127886832 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: left ; line-height: 19.425px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;Le système demande les coordonnées du client&lt;/span&gt;&lt;span class=&quot;EOP SCXW127886832 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: left ; line-height: 19.425px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IHLnQkf-su2GQdxn4kNH-7">
+          <mxGeometry x="0.1093" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-9" value="" style="endArrow=classic;html=1;entryX=0.324;entryY=1.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IHLnQkf-su2GQdxn4kNH-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-18" value="&lt;span lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW108395741 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: left ; line-height: 19.425px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;Le client choisit sa pizzeria et ses produits puis valide&lt;/span&gt;&lt;span class=&quot;EOP SCXW108395741 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: left ; line-height: 19.425px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IHLnQkf-su2GQdxn4kNH-9">
+          <mxGeometry x="0.0957" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="280" as="sourcePoint" />
+            <mxPoint x="210" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-15" value="&lt;span lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW63179185 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: left ; line-height: 19.425px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;Le système vérifie que l’adresse existe et montre les pizzerias disponibles&lt;/span&gt;&lt;span class=&quot;EOP SCXW63179185 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: left ; line-height: 19.425px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IHLnQkf-su2GQdxn4kNH-10">
+          <mxGeometry x="0.3946" y="-1" relative="1" as="geometry">
+            <mxPoint x="138" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-11" value="" style="endArrow=classic;html=1;entryX=0.163;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IHLnQkf-su2GQdxn4kNH-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="241" as="sourcePoint" />
+            <mxPoint x="430" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-14" value="&lt;span lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW106961597 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: left ; line-height: 19.425px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;Le client entre ses coordonnées et valide&lt;/span&gt;&lt;span class=&quot;EOP SCXW106961597 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: left ; line-height: 19.425px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IHLnQkf-su2GQdxn4kNH-11">
+          <mxGeometry x="-0.2876" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-12" value="" style="endArrow=classic;html=1;exitX=0.385;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IHLnQkf-su2GQdxn4kNH-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="450" as="sourcePoint" />
+            <mxPoint x="580" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-19" value="&lt;span lang=&quot;FR-FR&quot; class=&quot;TextRun  BCX0 SCXW207334302&quot; style=&quot;animation: 0s ease 0s 1 normal none running none ; appearance: none ; backface-visibility: visible ; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0 , 0 , 0 , 0) ; border: 0px none rgb(0 , 0 , 0) ; border-radius: 0px ; border-collapse: separate ; box-shadow: none ; box-sizing: content-box ; caption-side: top ; clear: none ; clip: auto ; content: normal ; cursor: text ; direction: ltr ; display: inline ; empty-cells: show ; float: none ; font-family: &amp;#34;wordvisi_msfontservice&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif ; font-size: 14.6667px ; height: auto ; line-height: 19.425px ; list-style: outside none decimal ; margin: 0px ; max-height: none ; max-width: none ; min-height: 0px ; min-width: 0px ; opacity: 1 ; outline: rgb(0 , 0 , 0) none 0px ; overflow-wrap: break-word ; overflow: visible ; padding: 0px ; perspective: none ; perspective-origin: 0px 0px ; position: static ; resize: none ; speak: normal ; table-layout: auto ; text-align: left ; text-overflow: clip ; text-shadow: none ; transform: none ; transform-origin: 0px 0px ; transform-style: flat ; transition: all 0s ease 0s ; unicode-bidi: normal ; vertical-align: baseline ; visibility: visible ; width: auto ; word-break: normal ; z-index: auto ; zoom: 1 ; border-spacing: 0px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXW207334302&quot; style=&quot;background-color: inherit&quot;&gt;Le client choisit une option de payement&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IHLnQkf-su2GQdxn4kNH-12">
+          <mxGeometry x="-0.1967" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-21" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IHLnQkf-su2GQdxn4kNH-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="586" y="480" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHLnQkf-su2GQdxn4kNH-22" value="&lt;span lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW29139748 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: left ; line-height: 19.425px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;Le système valide la commande&lt;/span&gt;&lt;span class=&quot;EOP SCXW29139748 BCX0&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: left ; line-height: 19.425px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IHLnQkf-su2GQdxn4kNH-21">
+          <mxGeometry x="0.0656" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
