@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T15:02:56.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="zS8P61T-bTqQ__E8LlZu" version="14.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-26T15:04:37.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="eLlBXbyGKB1lScA5gi1b" version="14.5.1" type="github" pages="3">
   <diagram id="-N2-KH0HbP3LnPa9TqIM" name="Page-1">
     <mxGraphModel dx="1342" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
         <mxCell id="WtOrFpANJLsokG16fVs8-10" value="&lt;font color=&quot;#000000&quot;&gt;compte&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="C5GiHgU9MNIkv_sx2gws-1" vertex="1">
           <mxGeometry x="480" y="470" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YVNkHupCcdB_9lqMYqXx-0" value="faire commande" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="C5GiHgU9MNIkv_sx2gws-1">
+        <mxCell id="YVNkHupCcdB_9lqMYqXx-0" value="préparer commande" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="C5GiHgU9MNIkv_sx2gws-1">
           <mxGeometry x="480" y="730" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
