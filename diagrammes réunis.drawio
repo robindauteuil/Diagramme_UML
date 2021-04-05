@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T09:40:04.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="SjGrJ_Jc9fTDfWdMourN" version="14.5.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-04-05T09:45:06.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Cq_WXP7qiDiNTy8jlXKW" version="14.5.6" type="github" pages="7">
   <diagram id="-N2-KH0HbP3LnPa9TqIM" name="diagramme boite noire">
     <mxGraphModel dx="1662" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,10 +305,19 @@
         <mxCell id="rGbUl_dpvxlcM6gLheOs-1" value="point d&#39;extension&#39; utilisateur sans compte" style="html=1;" parent="63-4XnSU4dY7CqPErN7P-1" vertex="1">
           <mxGeometry x="200" y="180" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E8kIzZ9J56NuT7vXMMEJ-0" value="créer compte employé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="63-4XnSU4dY7CqPErN7P-1">
+          <mxGeometry x="480" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E8kIzZ9J56NuT7vXMMEJ-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="63-4XnSU4dY7CqPErN7P-1" source="k86hCPn6cuwVdJYb96Ac-3" target="E8kIzZ9J56NuT7vXMMEJ-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zNdF7Yb14jH6WytTqPRM" name="Page-4">
+  <diagram id="zNdF7Yb14jH6WytTqPRM" name="package commander">
     <mxGraphModel dx="1662" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iK-c7jj9qpBuWZtnaV4I-0" />
@@ -434,7 +443,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="MO9QPAKcXEXN20m0lnF5" name="Page-5">
+  <diagram id="MO9QPAKcXEXN20m0lnF5" name="package payer">
     <mxGraphModel dx="1662" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NhB-fsRnmv-2Ori7ITVm-0" />
@@ -496,7 +505,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="bTwqu4-AyVpUBZ64vuu_" name="Page-6">
+  <diagram id="bTwqu4-AyVpUBZ64vuu_" name="package gestion">
     <mxGraphModel dx="1662" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Akn0tnsW3gzNgAqNl6ZU-0" />
@@ -534,7 +543,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D4kYrc4zcAIMRJKNscRE-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="Akn0tnsW3gzNgAqNl6ZU-1" edge="1">
+        <mxCell id="D4kYrc4zcAIMRJKNscRE-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0.043;entryY=0.671;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Akn0tnsW3gzNgAqNl6ZU-1" edge="1" target="1lMgy_vrHh4isI_ydAFw-0">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="80" y="460" as="sourcePoint" />
             <mxPoint x="490" y="410" as="targetPoint" />
