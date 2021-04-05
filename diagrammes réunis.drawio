@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T09:45:06.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Cq_WXP7qiDiNTy8jlXKW" version="14.5.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-04-05T09:45:52.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="H09mLMA05aQcLPWFGzFT" version="14.5.6" type="github" pages="7">
   <diagram id="-N2-KH0HbP3LnPa9TqIM" name="diagramme boite noire">
     <mxGraphModel dx="1662" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -528,9 +528,9 @@
         <mxCell id="1lMgy_vrHh4isI_ydAFw-4" value="responsable" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="Akn0tnsW3gzNgAqNl6ZU-1" vertex="1">
           <mxGeometry x="50" y="420" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D4kYrc4zcAIMRJKNscRE-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="Akn0tnsW3gzNgAqNl6ZU-1" source="1lMgy_vrHh4isI_ydAFw-4" target="1lMgy_vrHh4isI_ydAFw-2" edge="1">
+        <mxCell id="D4kYrc4zcAIMRJKNscRE-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="Akn0tnsW3gzNgAqNl6ZU-1" target="1lMgy_vrHh4isI_ydAFw-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="330" y="490" as="sourcePoint" />
+            <mxPoint x="80" y="460" as="sourcePoint" />
             <mxPoint x="490" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -558,7 +558,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LNN71QJrTr1MeMqSX8zu" name="Page-7">
+  <diagram id="LNN71QJrTr1MeMqSX8zu" name="diagramme activité">
     <mxGraphModel dx="1662" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vZbjRMkSLeybERyuL71H-0" />
