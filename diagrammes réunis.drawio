@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T10:07:24.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="V9xA5fkakKSFpY5EpN3F" version="14.5.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-04-06T10:24:39.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="2oRt9i6JKgshsfvwOIt9" version="14.5.6" type="github" pages="7">
   <diagram id="-N2-KH0HbP3LnPa9TqIM" name="diagramme boite noire">
     <mxGraphModel dx="1662" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -514,15 +514,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="80" y="360" as="sourcePoint" />
             <mxPoint x="490" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dqw7k-qNnY8XHR9aQF_5-0" value="faire payer à la livraison" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="NhB-fsRnmv-2Ori7ITVm-1">
-          <mxGeometry x="350" y="350" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kJa8vEkVdikx2bSVhT-S-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="NhB-fsRnmv-2Ori7ITVm-1" source="BxXKtA46bQd4NdRLAsVR-0" target="dqw7k-qNnY8XHR9aQF_5-0">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="67.95" y="330" as="sourcePoint" />
-            <mxPoint x="190.00354378779656" y="359.6886998402747" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
