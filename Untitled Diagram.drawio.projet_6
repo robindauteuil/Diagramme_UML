@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T14:47:21.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="wxJS4W3ahTVyCDcvwFn7" version="15.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-19T15:32:37.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="S52oiMTforJPXWM3FtHN" version="15.5.5" type="github" pages="3">
   <diagram id="gilB72fTKixxkBsczqO7" name="diagramme de classe">
     <mxGraphModel dx="2511" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -436,6 +436,23 @@
             <mxPoint x="540" y="460" as="sourcePoint" />
             <mxPoint x="650" y="535" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DDfk0l_4Kesdq-1xdGKw" name="Page-3">
+    <mxGraphModel dx="1342" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="Nall_3Ifk4wFLBUgAKmC-0" />
+        <mxCell id="Nall_3Ifk4wFLBUgAKmC-1" parent="Nall_3Ifk4wFLBUgAKmC-0" />
+        <mxCell id="Nall_3Ifk4wFLBUgAKmC-2" value="base de donnée" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="Nall_3Ifk4wFLBUgAKmC-1">
+          <mxGeometry x="600" y="470" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nall_3Ifk4wFLBUgAKmC-3" value="Application Serveur" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="Nall_3Ifk4wFLBUgAKmC-1">
+          <mxGeometry x="570" y="230" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Nall_3Ifk4wFLBUgAKmC-4" value="PC" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="Nall_3Ifk4wFLBUgAKmC-1">
+          <mxGeometry x="160" y="230" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
