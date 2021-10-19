@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T13:40:05.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="86Dv-qHYWWaZ-cK19p68" version="15.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-19T13:47:55.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Ddx4iDd1EwP0_IBok8P6" version="15.5.5" type="github" pages="2">
   <diagram id="gilB72fTKixxkBsczqO7" name="Page-1">
     <mxGraphModel dx="2511" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -252,10 +252,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PrEFU_5d-fFla_N7ET4Q-10" value="suivre en temps réel &#xa;le stock d’ingrédients " style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="PrEFU_5d-fFla_N7ET4Q-1">
-          <mxGeometry x="290" y="450" width="230" height="90" as="geometry" />
+          <mxGeometry x="290" y="500" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PrEFU_5d-fFla_N7ET4Q-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Liste des ingrédients et&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;leurs quantités&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="PrEFU_5d-fFla_N7ET4Q-1">
-          <mxGeometry x="50" y="450" width="165" height="120" as="geometry" />
+          <mxGeometry x="50" y="500" width="165" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PrEFU_5d-fFla_N7ET4Q-12" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.039;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="PrEFU_5d-fFla_N7ET4Q-1" source="PrEFU_5d-fFla_N7ET4Q-10" target="PrEFU_5d-fFla_N7ET4Q-11">
           <mxGeometry relative="1" as="geometry">
@@ -264,7 +264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PrEFU_5d-fFla_N7ET4Q-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;requête base de données&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="PrEFU_5d-fFla_N7ET4Q-1">
-          <mxGeometry x="590" y="445" width="160" height="100" as="geometry" />
+          <mxGeometry x="610" y="495" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PrEFU_5d-fFla_N7ET4Q-14" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PrEFU_5d-fFla_N7ET4Q-1" source="PrEFU_5d-fFla_N7ET4Q-10" target="PrEFU_5d-fFla_N7ET4Q-13">
           <mxGeometry width="160" relative="1" as="geometry">
