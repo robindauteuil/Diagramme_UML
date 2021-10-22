@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T10:20:06.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="PCrNwDqXh5xXXdm1au0O" version="15.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-22T10:20:33.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="qOmh6_JnH9kv3SVKs5p8" version="15.5.6" type="github" pages="3">
   <diagram id="gilB72fTKixxkBsczqO7" name="model bdd">
     <mxGraphModel dx="2511" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
           <mxGeometry x="910" y="90" width="212.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BN6lZDTrBoE5clIUbJfL-0" value="COMMANDER" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="PrEFU_5d-fFla_N7ET4Q-1">
-          <mxGeometry x="22.5" y="240" width="790" height="700" as="geometry" />
+          <mxGeometry x="10" y="240" width="802.5" height="700" as="geometry" />
         </mxCell>
         <mxCell id="PrEFU_5d-fFla_N7ET4Q-2" value="Suivre en temps réel les commandes&#xa; passées et en préparation" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="PrEFU_5d-fFla_N7ET4Q-1" vertex="1">
           <mxGeometry x="285" y="490" width="230" height="90" as="geometry" />
