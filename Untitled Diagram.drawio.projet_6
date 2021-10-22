@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T10:20:33.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="qOmh6_JnH9kv3SVKs5p8" version="15.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-22T10:26:40.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="odb6QQQbgXtJGWXTcQZG" version="15.5.6" type="github" pages="3">
   <diagram id="gilB72fTKixxkBsczqO7" name="model bdd">
     <mxGraphModel dx="2511" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -506,14 +506,14 @@
       <root>
         <mxCell id="Nall_3Ifk4wFLBUgAKmC-0" />
         <mxCell id="Nall_3Ifk4wFLBUgAKmC-1" parent="Nall_3Ifk4wFLBUgAKmC-0" />
+        <mxCell id="Nall_3Ifk4wFLBUgAKmC-4" value="PC/Client" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="Nall_3Ifk4wFLBUgAKmC-1" vertex="1">
+          <mxGeometry x="130" y="120" width="240" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="Nall_3Ifk4wFLBUgAKmC-2" value="base de donnée" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="Nall_3Ifk4wFLBUgAKmC-1" vertex="1">
           <mxGeometry x="530" y="460" width="152.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Nall_3Ifk4wFLBUgAKmC-3" value="Application Serveur" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="Nall_3Ifk4wFLBUgAKmC-1" vertex="1">
           <mxGeometry x="490" y="102.5" width="230" height="177.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Nall_3Ifk4wFLBUgAKmC-4" value="PC/Client" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="Nall_3Ifk4wFLBUgAKmC-1" vertex="1">
-          <mxGeometry x="130" y="120" width="230" height="135" as="geometry" />
         </mxCell>
         <mxCell id="Uwvljc3U8BTqoADfQqO0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="Nall_3Ifk4wFLBUgAKmC-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -557,9 +557,6 @@
         <mxCell id="Q5NKc8VGeHyvQKcK-yUc-0" value="MYSQL" style="html=1;" vertex="1" parent="Nall_3Ifk4wFLBUgAKmC-1">
           <mxGeometry x="576.25" y="560" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q5NKc8VGeHyvQKcK-yUc-2" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;site web/HTML" style="html=1;" vertex="1" parent="Nall_3Ifk4wFLBUgAKmC-1">
-          <mxGeometry x="160" y="181.25" width="150" height="62.5" as="geometry" />
-        </mxCell>
         <mxCell id="Q5NKc8VGeHyvQKcK-yUc-3" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;programme.py" style="html=1;" vertex="1" parent="Nall_3Ifk4wFLBUgAKmC-1">
           <mxGeometry x="530" y="173.75" width="140" height="70" as="geometry" />
         </mxCell>
@@ -579,6 +576,12 @@
         </mxCell>
         <mxCell id="Q5NKc8VGeHyvQKcK-yUc-11" value="&amp;lt;&amp;lt;artefact&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nall_3Ifk4wFLBUgAKmC-1">
           <mxGeometry x="920" y="161.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-dzOfTAHelP4qqhHj9m-0" value="Internet Browser" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="Nall_3Ifk4wFLBUgAKmC-1">
+          <mxGeometry x="152.5" y="161.25" width="187.5" height="118.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5NKc8VGeHyvQKcK-yUc-2" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;site web/HTML" style="html=1;" vertex="1" parent="Nall_3Ifk4wFLBUgAKmC-1">
+          <mxGeometry x="160" y="200" width="150" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
