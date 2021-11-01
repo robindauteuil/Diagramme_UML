@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T16:23:18.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="QuGuJaCf2LND9EHRTp0M" version="15.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-01T16:28:24.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="a_5Qi7YjgOoGnzPF82ug" version="15.6.3" type="github" pages="3">
   <diagram id="gilB72fTKixxkBsczqO7" name="model bdd">
     <mxGraphModel dx="2831" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="J0p8Lzd7PGril6OmBnkd-8" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;pizzeria&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;br&gt;FK4&lt;br&gt;&lt;br&gt;FK1&lt;br&gt;&lt;br&gt;FK6&lt;br&gt;&lt;br&gt;FK8&lt;/td&gt;&lt;td&gt;adress&lt;br&gt;&lt;br&gt;orders_list_ID&lt;br&gt;&lt;br&gt;stock_ID&lt;br&gt;&lt;br&gt;menu_ID&lt;br&gt;&lt;br&gt;employe_list_ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="110" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="J0p8Lzd7PGril6OmBnkd-11" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Menu&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK6&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;pizzeria_ID&lt;br&gt;&lt;br&gt;pizza&lt;br&gt;&lt;br&gt;recipe&lt;br&gt;&lt;br&gt;pizza_category&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-55" y="-210" width="170" height="180" as="geometry" />
+        <mxCell id="J0p8Lzd7PGril6OmBnkd-11" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Menu&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK6&lt;br&gt;&lt;br&gt;FK10&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;pizzeria_ID&lt;br&gt;&lt;br&gt;pizza_ID&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-37.5" y="-170" width="135" height="100" as="geometry" />
         </mxCell>
         <mxCell id="J0p8Lzd7PGril6OmBnkd-14" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;stock&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;br&gt;&lt;br&gt;FK2&lt;/td&gt;&lt;td&gt;pizzeria_ID&lt;br&gt;&lt;br&gt;ingredient_ID&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="155" width="180" height="90" as="geometry" />
@@ -184,6 +184,15 @@
         <mxCell id="AvHwleFLu7wIkn5Hzpme-10" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J0p8Lzd7PGril6OmBnkd-29">
           <mxGeometry x="-0.8874" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AvHwleFLu7wIkn5Hzpme-20" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Pizza&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK10&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;menu_ID&lt;br&gt;&lt;br&gt;pizza&lt;br&gt;&lt;br&gt;recipe&lt;br&gt;&lt;br&gt;pizza_category&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-195" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="AvHwleFLu7wIkn5Hzpme-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J0p8Lzd7PGril6OmBnkd-11" target="AvHwleFLu7wIkn5Hzpme-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="120" as="sourcePoint" />
+            <mxPoint x="140" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
