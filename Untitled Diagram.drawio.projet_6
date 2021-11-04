@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T11:55:10.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="LXnXJPAiOI1TGLmKXzH8" version="15.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-04T15:10:48.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="X9V_36deS7FEyrgv8ZPg" version="15.6.6" type="github" pages="3">
   <diagram id="gilB72fTKixxkBsczqO7" name="model bdd">
-    <mxGraphModel dx="2831" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2831" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="J0p8Lzd7PGril6OmBnkd-8" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;pizzeria&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK/FK7&lt;br&gt;&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;br&gt;FK1&lt;br&gt;&lt;br&gt;FK6&lt;br&gt;&lt;br&gt;FK8&lt;/td&gt;&lt;td&gt;adress&lt;br&gt;&lt;br&gt;stock_ID&lt;br&gt;&lt;br&gt;menu_ID&lt;br&gt;&lt;br&gt;employe_list_ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="110" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="J0p8Lzd7PGril6OmBnkd-11" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Menu&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK6&lt;br&gt;&lt;br&gt;FK10&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;pizzeria_ID&lt;br&gt;&lt;br&gt;pizza_ID&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
+        <mxCell id="J0p8Lzd7PGril6OmBnkd-11" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Menu&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK6&lt;br&gt;&lt;br&gt;FK10&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;pizzeria_ID&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
           <mxGeometry x="-37.5" y="-170" width="135" height="100" as="geometry" />
         </mxCell>
         <mxCell id="J0p8Lzd7PGril6OmBnkd-14" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;stock&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;br&gt;&lt;br&gt;FK2&lt;/td&gt;&lt;td&gt;pizzeria_ID&lt;br&gt;&lt;br&gt;ingredient_ID&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
@@ -139,7 +139,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5lNKk2MiLW6B47ADu7RC-1" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J0p8Lzd7PGril6OmBnkd-28">
+        <mxCell id="5lNKk2MiLW6B47ADu7RC-1" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="J0p8Lzd7PGril6OmBnkd-28" vertex="1" connectable="0">
           <mxGeometry x="-0.9031" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -167,22 +167,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AvHwleFLu7wIkn5Hzpme-20" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Pizza&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK10&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;menu_ID&lt;br&gt;&lt;br&gt;pizza&lt;br&gt;&lt;br&gt;recipe&lt;br&gt;&lt;br&gt;pizza_category&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="-195" width="190" height="150" as="geometry" />
+          <mxGeometry x="540" y="-170" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="AvHwleFLu7wIkn5Hzpme-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="J0p8Lzd7PGril6OmBnkd-11" target="AvHwleFLu7wIkn5Hzpme-20" edge="1">
+        <mxCell id="jmM3Hw5i3ep52DfQj_nt-1" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Tablename&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;menu_id&lt;br&gt;&lt;br&gt;pizza_id&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-165" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jmM3Hw5i3ep52DfQj_nt-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J0p8Lzd7PGril6OmBnkd-11" target="jmM3Hw5i3ep52DfQj_nt-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="120" as="sourcePoint" />
-            <mxPoint x="140" y="70" as="targetPoint" />
+            <mxPoint x="40" y="180" as="sourcePoint" />
+            <mxPoint x="90" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AvHwleFLu7wIkn5Hzpme-22" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AvHwleFLu7wIkn5Hzpme-21" vertex="1" connectable="0">
-          <mxGeometry x="-0.7684" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AvHwleFLu7wIkn5Hzpme-23" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AvHwleFLu7wIkn5Hzpme-21" vertex="1" connectable="0">
-          <mxGeometry x="0.7474" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="jmM3Hw5i3ep52DfQj_nt-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jmM3Hw5i3ep52DfQj_nt-1" target="AvHwleFLu7wIkn5Hzpme-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="180" as="sourcePoint" />
+            <mxPoint x="90" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
