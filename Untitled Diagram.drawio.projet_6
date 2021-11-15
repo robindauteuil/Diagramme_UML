@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T12:44:26.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="SUeaHi_VGVN8yvCj2ptE" version="15.7.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-15T12:48:53.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="fiWgYHFGJW5QW7iU_VKQ" version="15.7.3" type="github" pages="5">
   <diagram id="gilB72fTKixxkBsczqO7" name="model bdd">
     <mxGraphModel dx="2831" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -197,10 +197,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="w_tBLDKr0Yd6ZL90mqyh-8" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jmM3Hw5i3ep52DfQj_nt-5">
+          <mxGeometry x="0.8743" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_tBLDKr0Yd6ZL90mqyh-9" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jmM3Hw5i3ep52DfQj_nt-5">
+          <mxGeometry x="-0.8972" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jmM3Hw5i3ep52DfQj_nt-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.543;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.539;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="jmM3Hw5i3ep52DfQj_nt-4" target="AvHwleFLu7wIkn5Hzpme-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="280" as="sourcePoint" />
             <mxPoint x="90" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_tBLDKr0Yd6ZL90mqyh-6" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jmM3Hw5i3ep52DfQj_nt-6">
+          <mxGeometry x="0.8278" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_tBLDKr0Yd6ZL90mqyh-7" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jmM3Hw5i3ep52DfQj_nt-6">
+          <mxGeometry x="-0.7775" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EjlkPZ28WdsK7vJVZIPM-2" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;category_pizza&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;name&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
