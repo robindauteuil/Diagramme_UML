@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T16:34:41.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Nv-O8-JegixILKM3JzpP" version="15.8.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-19T16:35:13.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ECUNya6zONnuDN5tafce" version="15.8.2" type="github" pages="5">
   <diagram id="gilB72fTKixxkBsczqO7" name="model bdd">
     <mxGraphModel dx="2511" dy="1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
             <mxPoint x="608.75" y="747.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrEFU_5d-fFla_N7ET4Q-20" value="«interface»&lt;br&gt;&lt;b&gt;passe commande &lt;br&gt;sur le site&lt;/b&gt;" style="html=1;" parent="PrEFU_5d-fFla_N7ET4Q-1" vertex="1">
+        <mxCell id="PrEFU_5d-fFla_N7ET4Q-20" value="«interface»&lt;br&gt;&lt;b&gt;passer commande &lt;br&gt;sur le site&lt;/b&gt;" style="html=1;" parent="PrEFU_5d-fFla_N7ET4Q-1" vertex="1">
           <mxGeometry x="643.75" y="492.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PrEFU_5d-fFla_N7ET4Q-21" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="PrEFU_5d-fFla_N7ET4Q-1" source="PrEFU_5d-fFla_N7ET4Q-15" target="PrEFU_5d-fFla_N7ET4Q-20" edge="1">
