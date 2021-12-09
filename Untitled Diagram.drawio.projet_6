@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T10:47:05.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="MM_WGXMc72lNx2_eOnSE" version="15.9.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-09T11:21:53.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="F8HqQV_kHc94jwAx2m9g" version="15.9.1" type="github" pages="5">
   <diagram id="gilB72fTKixxkBsczqO7" name="model bdd">
     <mxGraphModel dx="2831" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -423,7 +423,7 @@
             <mxPoint x="678.75" y="327.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrEFU_5d-fFla_N7ET4Q-55" value="«interface»&lt;br&gt;&lt;b&gt;requte base de données&lt;/b&gt;" style="html=1;" parent="PrEFU_5d-fFla_N7ET4Q-1" vertex="1">
+        <mxCell id="PrEFU_5d-fFla_N7ET4Q-55" value="«interface»&lt;br&gt;&lt;b&gt;requête base de données&lt;/b&gt;" style="html=1;" parent="PrEFU_5d-fFla_N7ET4Q-1" vertex="1">
           <mxGeometry x="643.75" y="337.5" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PrEFU_5d-fFla_N7ET4Q-56" value="«interface»&lt;br&gt;&lt;b&gt;état de la &lt;br&gt;commande&lt;/b&gt;" style="html=1;" parent="PrEFU_5d-fFla_N7ET4Q-1" vertex="1">
@@ -590,7 +590,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DDfk0l_4Kesdq-1xdGKw" name="Page-3">
-    <mxGraphModel dx="1554" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Nall_3Ifk4wFLBUgAKmC-0" />
         <mxCell id="Nall_3Ifk4wFLBUgAKmC-1" parent="Nall_3Ifk4wFLBUgAKmC-0" />
